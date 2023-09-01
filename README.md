@@ -44,7 +44,6 @@ Here's what I accomplished in this optional phase:
 
 4. I enhanced user control by adding layer controls to the map, enabling users to manage the display of different datasets effortlessly.
 
-![Earthquake Visualization](https://example.com/earthquake_visualization.png)
 
 ## Conclusion
 
