@@ -8,7 +8,7 @@ I have taken on a significant project involving earthquake data visualization. T
 
 In this project, I have successfully created an interactive earthquake visualization using the Leaflet JavaScript library. This visualization allows users, including journalists and researchers, to explore earthquake data from around the world. It provides valuable insights into earthquake frequency, magnitude, and depth.
 
-## Part 1: Creating the Earthquake Visualization
+## Creating the Earthquake Visualization
 
 ### Dataset Selection
 
@@ -30,20 +30,7 @@ Here's how I imported and effectively visualized the earthquake data:
 
 6. To provide context for the data, I added a legend to the map.
 
-## Part 2: Optional - Gathering and Plotting More Data
-
-In this optional section, I aimed to enhance the visualization by incorporating additional earthquake-related data, including the correlation between tectonic plates and seismic activity.
-
-Here's what I accomplished in this optional phase:
-
-1. I successfully plotted a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. This additional dataset was obtained from [fraxen/tectonicplates](https://github.com/fraxen/tectonicplates).
-
-2. To offer users more choices, I provided multiple base map options, allowing them to customize their viewing experience.
-
-3. For flexibility, I organized each dataset into separate overlays that users can easily toggle on and off.
-
-4. I enhanced user control by adding layer controls to the map, enabling users to manage the display of different datasets effortlessly.
-
+![image](https://github.com/mehpree/leaflet-challenge/assets/131678606/03e7b5db-9b0c-4bd6-8bce-0cbf5790c7ee)
 
 ## Conclusion
 
