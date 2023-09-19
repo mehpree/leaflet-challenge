@@ -15,7 +15,7 @@ let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.ge
 
 // Function to determine marker radius based on magnitude
 function getRadius(magnitude) {
-    return Math.sqrt(magnitude) * 5;
+    return magnitude * 5;
 }
 
 // Function to create a marker color based on depth
